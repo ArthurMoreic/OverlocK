@@ -20,7 +20,7 @@ html {
 }
 
 body  {
-    width       : 480px;
+    width       : 100%;
     background-color: var(--color-white);
     font-family : 'Poppins', sans-serif;
 }
